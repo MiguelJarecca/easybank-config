@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to EazyBank accounts related prod APIs"
   contactDetails:
     name: "filo - Product Owner"
-    email: "filo@gmail.com"
+    email: "{cipher}7741237589a02ce104e058e111320c415ce0c721cc3626a89b77b7ee402c7605"
   onCallSupport:
     - 990449496
     - 990449496
